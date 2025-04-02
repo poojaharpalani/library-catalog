@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
+
 import SearchBar from "./searchBar";
 import SortButton from "./SortButton";
 import TableHeader from "./TableHeader";
